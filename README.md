@@ -23,8 +23,8 @@ A ideia foi transformar os dados da DRE em uma visão mais simples e visual, fac
 - Análise Vertical
 - Indicadores acumulados (YTD)
 
-## 📊 Dashboard
+ 📊 Dashboard
 
-[🔗 **Acessar dashboard no Power BI**]([(https://app.powerbi.com/groups/me/reports/c2107ad5-d782-43ca-90ca-4703f67b327e/ReportSection?experience=power-bi)])
+[🔗 **Acessar dashboard no Power BI**](https://app.powerbi.com/groups/me/reports/c2107ad5-d782-43ca-90ca-4703f67b327e/ReportSection?experience=power-bi)
 
 ![Dashboard de DRE](DRE.png)
