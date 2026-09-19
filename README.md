@@ -1,65 +1,30 @@
-# 📊 Dashboard de DRE Gerencial | Controladoria
+📊 Dashboard de DRE | Controladoria
 
-Dashboard desenvolvido em **Power BI** com foco no acompanhamento do desempenho financeiro e análise gerencial de uma Demonstração do Resultado do Exercício (DRE).
+Projeto desenvolvido em **Power BI** para acompanhar os principais indicadores financeiros de uma operação.
 
-🎯 Objetivo
+A ideia foi transformar os dados da DRE em uma visão mais simples e visual, facilitando a comparação entre **Realizado x Previsto**, análise dos desvios e acompanhamento do resultado ao longo dos meses.
 
-O projeto tem como objetivo proporcionar uma visão gerencial do desempenho financeiro, permitindo comparar os valores **Realizados vs. Previstos**, identificar desvios e acompanhar a evolução dos principais indicadores financeiros.
+> ⚠️ **Observação:** este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e demonstração. Nenhuma informação real ou confidencial foi utilizada.
 
-📌 Principais análises
-
-- Realizado vs. Previsto
-- Análise vertical
-- Análise de desvios
-- Receita Operacional Bruta
-- Receita Operacional Líquida
-- Margem de Contribuição
-- Despesas Operacionais
-- Resultado Líquido
-- Análise acumulada (YTD)
-- Evolução mensal do resultado
-
-## 🛠️ Tecnologias utilizadas
+🛠️ Ferramentas
 
 - Power BI
 - DAX
 - Power Query
-- Modelagem de dados
 - Excel
+
+📌 Principais análises
+
+- Receita Operacional
+- Margem de Contribuição
+- Despesas Operacionais
+- Resultado Líquido
+- Realizado x Previsto
+- Análise Vertical
+- Indicadores acumulados (YTD)
 
 ## 📊 Dashboard
 
+[🔗 **Acessar dashboard no Power BI**](COLE_AQUI_O_LINK)
+
 ![Dashboard de DRE](DRE.png)
-
-## 📈 Indicadores apresentados
-
-O dashboard permite acompanhar os principais indicadores financeiros da operação, incluindo:
-
-| Indicador | Análise |
-|---|---|
-| Receita Operacional Bruta | Realizado vs. Previsto |
-| Receita Operacional Líquida | Evolução e variação |
-| Margem de Contribuição | Análise mensal e acumulada |
-| Despesas Operacionais | Comparação com o previsto |
-| Resultado Líquido | Evolução mensal |
-| YTD | Realizado vs. Previsto acumulado |
-
-## 💡 Recursos desenvolvidos
-
-O projeto utiliza recursos do Power BI para transformar dados financeiros em informações gerenciais, incluindo:
-
-- Medidas DAX;
-- Indicadores de desempenho;
-- Comparações mensais;
-- Análise acumulada;
-- Formatação condicional;
-- Indicadores visuais de desempenho;
-- Storytelling de dados.
-
-## 👨‍💻 Autor
-
-**Matheus Amaral**
-
-[LinkedIn](https://www.linkedin.com/in/matheusferreiradoamaral/)
-
-[GitHub](https://github.com/MatheusAmaraal)
